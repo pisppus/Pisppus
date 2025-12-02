@@ -2,12 +2,6 @@
 # Hello! 👋 I'm Pisppus
 I'm a passionate developer who strives to create innovative solutions at the intersection of hardware and software. My goal is to transform ideas into reality by developing products that matter and deliver value.
 
-## 🌱 In the process of learning
-I am constantly striving to expand my knowledge and skills in the following areas:
-- Creating circuits and developing boards
-- Writing software (firmware)
-- Releasing more interesting and functional projects
-
 ## 📫 Contact me
 - 📧 [Email](vispixad@gmail.com)
 - 🔗 [Telegram](https://t.me/Pisppus)
