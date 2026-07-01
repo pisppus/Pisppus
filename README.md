@@ -8,7 +8,7 @@ My goal is to transform ideas into real solutions that are practical, reliable, 
 
 ### Stack
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,cpp,cs,py,kotlin,git,github&theme=dark&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,cpp,cs,py,git,github&theme=dark&perline=9)](https://skillicons.dev)
 
 ### Contact me 
 
